@@ -5,6 +5,10 @@ body {
     padding: 0;
     line-height: 1.6;
     background-color: #f4f4f4;
+
+
+    color:red;
+    /*Cambiamos los datps*/
 }
 
 h1,h2,h3,p,ul,li {
